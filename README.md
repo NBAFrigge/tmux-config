@@ -1,14 +1,14 @@
 # tmux-config
 
-My [tmux](https://github.com/tmux/tmux) configuration — a **Tokyo Night** status
-bar and pane borders accented with a cyan/green highlight, plus sensible
-defaults, vi copy-mode (Wayland `wl-copy`), and TPM-managed plugins.
+My [tmux](https://github.com/tmux/tmux) configuration — a **solid green**
+centered status bar and green pane borders, plus sensible defaults, vi
+copy-mode (Wayland `wl-copy`), and TPM-managed plugins.
 
 ## Features
 
 - **Prefix**: `Ctrl-a`
-- Tokyo Night status bar with Nerd Font powerline separators
-- Active pane border in cyan; `heavy` border lines
+- Green status bar, centered window list (`absolute-centre`)
+- Active pane border in green (`#a6e3a1`); `heavy` border lines
 - Vi copy-mode, mouse support, 50k scrollback, true color
 - Splits keep the current path (`|` and `-`)
 - Alt+arrows to move between panes (no prefix)
